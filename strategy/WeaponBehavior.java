@@ -1,6 +1,4 @@
 package strategy;
-import java.util.Random;
-
 
 interface WeaponBehavior {
     public String attack();
