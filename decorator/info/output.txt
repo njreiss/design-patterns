@@ -1,0 +1,7 @@
+******** Ice Cream Shop *******
+I would like to order, 2 Ice Creams:
+Chocolate dipped cone, 2 scoops of vanilla ice cream, a scoop of chocolate ice cream
+Price: $5.5
+
+Bowl, a scoop of vanilla ice cream, a scoop of strawberry ice cream
+Price: $2.65
