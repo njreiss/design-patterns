@@ -1,0 +1,17 @@
+Coffee Filters:
+The Coffee Filters are ordered
+The Coffee Filters will be shipped within 2 business days
+The Coffee Filters experienced a slight delay in manufacturing.
+The Coffee Filters will be shipped within 4 business days
+The Coffee Filters are out for delivery
+The Coffee Filters should arrive within 5 days
+The Coffee Filters are here for you.
+
+Spiderman Bike:
+The Spiderman Bike is ordered
+The Spiderman Bike will be shipped within 2 business days
+The Spiderman Bike is out for delivery
+The Spiderman Bike should arrive within 5 days
+The Spiderman Bike has experienced a delay in shipping.
+The Spiderman Bike should arrive within 8 days
+The Spiderman Bike is here for you.
